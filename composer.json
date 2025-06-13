@@ -1,0 +1,14 @@
+{
+  "name": "sinxalex/pdf_to_image",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "aleshaascet@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
