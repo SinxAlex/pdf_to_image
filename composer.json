@@ -9,6 +9,11 @@
       "email": "aleshaascet@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "PdfToImage\\": "src/"
+    }
+  },
   "require": {
   }
 }
